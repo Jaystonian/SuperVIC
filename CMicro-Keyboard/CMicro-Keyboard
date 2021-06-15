@@ -1,0 +1,605 @@
+.HEA
+.TIM 5/2/2021 1:59:56 PM
+.APP "Eeschema (5.1.9)-1"
+
+.ADD_COM J1 "KEYBRD"
+.ADD_COM SW1312-InstDel1 "SW_Push"
+.ADD_COM SW1912-3-key1 "SW_Push"
+.ADD_COM SW1812-5-key1 "SW_Push"
+.ADD_COM SW1712-7-key1 "SW_Push"
+.ADD_COM SW1612-9-key1 "SW_Push"
+.ADD_COM SW1512-Key+1 "SW_Push"
+.ADD_COM SW1412-KeyPound1 "SW_Push"
+.ADD_COM SW2012-1-key1 "SW_Push"
+.ADD_COM SW1311-Return1 "SW_Push"
+.ADD_COM SW1911-KeyW1 "SW_Push"
+.ADD_COM SW1811-KeyR1 "SW_Push"
+.ADD_COM SW1711-KeyY1 "SW_Push"
+.ADD_COM SW1611-KeyI1 "SW_Push"
+.ADD_COM SW1511-KeyP1 "SW_Push"
+.ADD_COM SW1411-Key*1 "SW_Push"
+.ADD_COM SW2011-LeftArrow1 "SW_Push"
+.ADD_COM SW1310-CrsrLR1 "SW_Push"
+.ADD_COM SW1910-KeyA1 "SW_Push"
+.ADD_COM SW1810-KeyD1 "SW_Push"
+.ADD_COM SW1710-KeyG1 "SW_Push"
+.ADD_COM SW1610-KeyJ1 "SW_Push"
+.ADD_COM SW1510-KeyL1 "SW_Push"
+.ADD_COM SW1410-Key;1 "SW_Push"
+.ADD_COM SW2010-CTRL1 "SW_Push"
+.ADD_COM SW1305-F7-key1 "SW_Push"
+.ADD_COM SW1905-4-key1 "SW_Push"
+.ADD_COM SW1805-6-key1 "SW_Push"
+.ADD_COM SW1705-8-key1 "SW_Push"
+.ADD_COM SW1605-0-key1 "SW_Push"
+.ADD_COM SW1505-Key-1 "SW_Push"
+.ADD_COM SW1405-ClrHome1 "SW_Push"
+.ADD_COM SW2005-2-key1 "SW_Push"
+.ADD_COM SW1308-F1-Key1 "SW_Push"
+.ADD_COM SW1908-KeyZ1 "SW_Push"
+.ADD_COM SW1808-KeyC1 "SW_Push"
+.ADD_COM SW1708-KeyB1 "SW_Push"
+.ADD_COM SW1608-KeyM1 "SW_Push"
+.ADD_COM SW1508-Key.1 "SW_Push"
+.ADD_COM SW1408-RShift1 "SW_Push"
+.ADD_COM SW2008-Space1 "SW_Push"
+.ADD_COM D72 " "
+.ADD_COM SW1307-F3-key1 "SW_Push"
+.ADD_COM SW1907-KeyS1 "SW_Push"
+.ADD_COM SW1807-F-key1 "SW_Push"
+.ADD_COM SW1707-KeyH1 "SW_Push"
+.ADD_COM SW1607-KeyK1 "SW_Push"
+.ADD_COM SW1507-Key:1 "SW_Push"
+.ADD_COM SW1407-Key=1 "SW_Push"
+.ADD_COM SW2007-C=1 "SW_Push"
+.ADD_COM SW1306-F5-key1 "SW_Push"
+.ADD_COM SW1906-KeyE1 "SW_Push"
+.ADD_COM SW1806-KeyT1 "SW_Push"
+.ADD_COM SW1706-KeyU1 "SW_Push"
+.ADD_COM SW1606-KeyO1 "SW_Push"
+.ADD_COM SW1506-Key@1 "SW_Push"
+.ADD_COM SW1406-UpArrow1 "SW_Push"
+.ADD_COM SW2006-KeyQ1 "SW_Push"
+.ADD_COM SW1309-CrsrUD1 "SW_Push"
+.ADD_COM SW1909-LShift1 "SW_Push"
+.ADD_COM SW1809-KeyX1 "SW_Push"
+.ADD_COM SW1709-KeyV1 "SW_Push"
+.ADD_COM SW1609-KeyN1 "SW_Push"
+.ADD_COM SW1509-Key,1 "SW_Push"
+.ADD_COM SW1409-Key/1 "SW_Push"
+.ADD_COM SW2009-RunStop1 "SW_Push"
+.ADD_COM SW0103-Restore1 "SW_Push"
+.ADD_COM D53 " "
+.ADD_COM R5 "120R"
+.ADD_COM R16 "120R"
+.ADD_COM R6 "120R"
+.ADD_COM R7 "120R"
+.ADD_COM R8 "120R"
+.ADD_COM R9 "120R"
+.ADD_COM R10 "120R"
+.ADD_COM R11 "120R"
+.ADD_COM R12 "120R"
+.ADD_COM R23 "120R"
+.ADD_COM R22 "120R"
+.ADD_COM R21 "120R"
+.ADD_COM R20 "120R"
+.ADD_COM R19 "120R"
+.ADD_COM R18 "120R"
+.ADD_COM R17 "120R"
+.ADD_COM R25 "120R"
+.ADD_COM R26 "120R"
+.ADD_COM R27 "120R"
+.ADD_COM R28 "120R"
+.ADD_COM R29 "120R"
+.ADD_COM R30 "120R"
+.ADD_COM R31 "120R"
+.ADD_COM R32 "120R"
+.ADD_COM R42 "120R"
+.ADD_COM R41 "120R"
+.ADD_COM R40 "120R"
+.ADD_COM R39 "120R"
+.ADD_COM R38 "120R"
+.ADD_COM R37 "120R"
+.ADD_COM R36 "120R"
+.ADD_COM R35 "120R"
+.ADD_COM R45 "120R"
+.ADD_COM R46 "120R"
+.ADD_COM R47 "120R"
+.ADD_COM R48 "120R"
+.ADD_COM R49 "120R"
+.ADD_COM R50 "120R"
+.ADD_COM R51 "120R"
+.ADD_COM R52 "120R"
+.ADD_COM R60 "120R"
+.ADD_COM R59 "120R"
+.ADD_COM R58 "120R"
+.ADD_COM R57 "120R"
+.ADD_COM R56 "120R"
+.ADD_COM R55 "120R"
+.ADD_COM R54 "120R"
+.ADD_COM R53 "120R"
+.ADD_COM R61 "120R"
+.ADD_COM R62 "120R"
+.ADD_COM R63 "120R"
+.ADD_COM R64 "120R"
+.ADD_COM R65 "120R"
+.ADD_COM R66 "120R"
+.ADD_COM R67 "120R"
+.ADD_COM R68 "120R"
+.ADD_COM R75 "120R"
+.ADD_COM R74 "120R"
+.ADD_COM R73 "120R"
+.ADD_COM R76 "120R"
+.ADD_COM R72 "120R"
+.ADD_COM R71 "120R"
+.ADD_COM R70 "120R"
+.ADD_COM R69 "120R"
+.ADD_COM R15 "120R"
+.ADD_COM U4 "74HCT4066PW"
+.ADD_COM SW1909&2501-ShiftCapsLock1 "SW_Push"
+.ADD_COM D1 "151051RS11000"
+.ADD_COM D20 "151051YS04000"
+.ADD_COM U2 "74HCT74PW"
+.ADD_COM SW1309-CrsrUp1 "SW_Push"
+.ADD_COM D70 " "
+.ADD_COM D71 " "
+.ADD_COM D54 " "
+.ADD_COM R44 "47K"
+.ADD_COM R34 "10K"
+.ADD_COM R1 "220R"
+.ADD_COM U1 "74HCT04PW"
+.ADD_COM CU1 "100nF"
+.ADD_COM CU2 "100nF"
+.ADD_COM CU3 "100nF"
+.ADD_COM CU4 "100nF"
+.ADD_COM C3 "10uF"
+.ADD_COM R14 "22K"
+.ADD_COM R2 "10K"
+.ADD_COM R24 "560R"
+.ADD_COM R3 "2K7"
+.ADD_COM R13 "5K6"
+.ADD_COM R4 "2K7"
+.ADD_COM C2 "10u"
+.ADD_COM D2 " "
+.ADD_COM C1 "10u"
+.ADD_COM U3 "74HCT2G00DP,125"
+.ADD_COM R43 "47K"
+.ADD_COM R33 "10K"
+.ADD_COM SW1310-CrsrLeft1 "SW_Push"
+.ADD_COM SW2008-SpaceB1 "SW_Push"
+.ADD_COM J2 "KEYBRD2"
+.ADD_COM SW_MENU1 "SW_Push"
+.ADD_COM SW_SPECIAL1 "SW_Push"
+.ADD_COM SW_RESET1 "SW_Push"
+.ADD_COM CU5 "100nF"
+.ADD_COM ZT1 "CableRelief-4mmZipTie"
+.ADD_COM D10 " "
+.ADD_COM D9 " "
+.ADD_COM D8 " "
+.ADD_COM D3 " "
+.ADD_COM D4 " "
+.ADD_COM D5 " "
+.ADD_COM D6 " "
+.ADD_COM D7 " "
+
+
+.ADD_TER J2.1 "GND"
+.TER     U2.12
+         C3.2
+         U2.11
+         ZT1.GND
+         U2.7
+         R33.2
+         CU5.2
+         R34.2
+         CU3.2
+         CU4.2
+         U1.7
+         U1.5
+         U1.9
+         CU2.2
+         CU1.2
+         D1.1
+         SW1909&2501-ShiftCapsLock1.2
+         U4.7
+         U3.4
+         R13.2
+         C2.2
+         U3.4
+         J1.1
+         R15.1
+         C1.2
+.ADD_TER U3.7 "Net-(U2-Pad4)"
+.TER     U2.4
+.ADD_TER U1.11 "Net-(C1-Pad1)"
+.TER     D2.1
+         R3.1
+         C1.1
+         U2.3
+.ADD_TER R14.1 "+5V"
+.TER     C3.1
+         R4.1
+         R44.1
+         R2.1
+         R24.1
+         U4.14
+         CU4.1
+         U3.8
+         R43.1
+         U3.8
+         CU1.1
+         CU2.1
+         U1.14
+         CU3.1
+         J1.4
+         U2.14
+         CU5.1
+.ADD_TER R14.2 "Net-(R14-Pad2)"
+.TER     U2.1
+.ADD_TER D20.1 "Net-(D20-Pad1)"
+.TER     U2.2
+         U2.6
+.ADD_TER R24.2 "Net-(D20-Pad2)"
+.TER     D20.2
+.ADD_TER R2.2 "Net-(D2-Pad2)"
+.TER     D2.2
+         R3.2
+         SW1909&2501-ShiftCapsLock1.1
+.ADD_TER U1.13 "Net-(C2-Pad1)"
+.TER     C2.1
+         R4.2
+         R13.1
+.ADD_TER U3.3 "/EN_RIGHTSHIFT"
+.TER     U4.12
+.ADD_TER U4.5 "/EN_CURLEFT"
+.TER     U1.2
+.ADD_TER U1.4 "/EN_CURUP"
+.TER     U4.6
+.ADD_TER SW1908-KeyZ1.1 "/P08"
+.TER     D6.1
+         SW2008-SpaceB1.1
+         SW1308-F1-Key1.1
+         SW1808-KeyC1.1
+         SW1708-KeyB1.1
+         SW1608-KeyM1.1
+         SW1508-Key.1.1
+         SW1408-RShift1.1
+         SW2008-Space1.1
+         U4.11
+.ADD_TER U1.1 "/~PushCL"
+.TER     R43.2
+         U3.5
+         SW1310-CrsrLeft1.2
+.ADD_TER SW1310-CrsrLeft1.1 "Net-(R33-Pad1)"
+.TER     R33.1
+.ADD_TER U4.13 "/EN_SHIFTLOCK"
+.TER     U2.5
+.ADD_TER U3.1 "Net-(U1-Pad12)"
+.TER     U1.12
+.ADD_TER U1.10 "Net-(U1-Pad10)"
+.TER     U3.2
+.ADD_TER U4.10 "Net-(D54-Pad2)"
+.TER     D54.2
+.ADD_TER R34.1 "Net-(R34-Pad1)"
+.TER     SW1309-CrsrUp1.1
+.ADD_TER U1.3 "/~PushCU"
+.TER     SW1309-CrsrUp1.2
+         U3.6
+         R44.2
+.ADD_TER U4.3 "Net-(D70-Pad2)"
+.TER     D70.2
+.ADD_TER U4.9 "Net-(D71-Pad2)"
+.TER     D71.2
+.ADD_TER SW1310-CrsrLR1.1 "/P10"
+.TER     SW1410-Key;1.1
+         SW2010-CTRL1.1
+         SW1910-KeyA1.1
+         SW1810-KeyD1.1
+         SW1510-KeyL1.1
+         U4.4
+         SW1610-KeyJ1.1
+         SW1710-KeyG1.1
+         D8.1
+.ADD_TER SW1909-LShift1.1 "/P09"
+.TER     SW1809-KeyX1.1
+         SW1309-CrsrUD1.1
+         U4.8
+         U4.1
+         SW1409-Key/1.1
+         SW1509-Key,1.1
+         SW2009-RunStop1.1
+         SW1609-KeyN1.1
+         SW1709-KeyV1.1
+         D7.1
+.ADD_TER R5.1 "/P13"
+.TER     R12.1
+         R11.1
+         R7.1
+         R8.1
+         R9.1
+         J1.13
+         D70.1
+         D71.1
+         R10.1
+         R6.1
+.ADD_TER J1.14 "/P14"
+.TER     R62.1
+         R61.1
+         R63.1
+         R64.1
+         R65.1
+         R66.1
+         R67.1
+         R68.1
+         D54.1
+.ADD_TER SW0103-Restore1.1 "/P03"
+.TER     J1.3
+.ADD_TER R21.1 "/P19"
+.TER     J1.19
+         R23.1
+         R22.1
+         R18.1
+         R17.1
+         R19.1
+         R16.1
+         D53.1
+         R20.1
+.ADD_TER U4.2 "Net-(D53-Pad2)"
+.TER     D53.2
+.ADD_TER R1.1 "Net-(D1-Pad2)"
+.TER     D1.2
+.ADD_TER U2.10 "Net-(U1-Pad6)"
+.TER     U2.13
+         U1.6
+.ADD_TER SW1811-KeyR1.1 "/P11"
+.TER     SW1911-KeyW1.1
+         SW1311-Return1.1
+         SW2011-LeftArrow1.1
+         SW1711-KeyY1.1
+         SW1611-KeyI1.1
+         SW1511-KeyP1.1
+         D9.1
+         SW1411-Key*1.1
+.ADD_TER D9.2 "Net-(D9-Pad2)"
+.TER     J1.11
+.ADD_TER D8.2 "Net-(D8-Pad2)"
+.TER     J1.10
+.ADD_TER J1.5 "Net-(D3-Pad2)"
+.TER     D3.2
+.ADD_TER D4.2 "Net-(D4-Pad2)"
+.TER     J1.6
+.ADD_TER J1.7 "Net-(D5-Pad2)"
+.TER     D5.2
+.ADD_TER D6.2 "Net-(D6-Pad2)"
+.TER     J1.8
+.ADD_TER J1.9 "Net-(D7-Pad2)"
+.TER     D7.2
+.ADD_TER R59.1 "/P15"
+.TER     R53.1
+         R54.1
+         R55.1
+         R58.1
+         R60.1
+         R57.1
+         R56.1
+         J1.15
+.ADD_TER J1.16 "/P16"
+.TER     R50.1
+         R45.1
+         R46.1
+         R47.1
+         R48.1
+         R49.1
+         R51.1
+         R52.1
+.ADD_TER R38.1 "/P17"
+.TER     R42.1
+         R41.1
+         R37.1
+         R36.1
+         J1.17
+         R39.1
+         R40.1
+         R35.1
+.ADD_TER R32.1 "/P18"
+.TER     R31.1
+         R30.1
+         R29.1
+         R26.1
+         R28.1
+         R27.1
+         R25.1
+         J1.18
+.ADD_TER SW2008-SpaceB1.2 "Net-(D72-Pad2)"
+.TER     D72.2
+         SW2008-Space1.2
+.ADD_TER R74.1 "/P20"
+.TER     R69.1
+         R70.1
+         R71.1
+         R72.1
+         R76.1
+         R73.1
+         J1.20
+         R75.1
+.ADD_TER SW1412-KeyPound1.1 "/P12"
+.TER     SW1512-Key+1.1
+         SW1612-9-key1.1
+         SW1712-7-key1.1
+         SW1812-5-key1.1
+         SW1912-3-key1.1
+         SW1312-InstDel1.1
+         SW2012-1-key1.1
+         D10.1
+.ADD_TER J1.12 "Net-(D10-Pad2)"
+.TER     D10.2
+.ADD_TER J2.6 "Net-(J2-Pad6)"
+.TER     SW_MENU1.2
+.ADD_TER R1.2 "+3V3"
+.TER     J2.3
+         SW_MENU1.1
+         SW_SPECIAL1.1
+         SW_RESET1.1
+.ADD_TER SW_SPECIAL1.2 "Net-(J2-Pad5)"
+.TER     J2.5
+.ADD_TER J2.4 "Net-(J2-Pad4)"
+.TER     SW_RESET1.2
+.ADD_TER SW1908-KeyZ1.2 "Net-(R20-Pad2)"
+.TER     R20.2
+.ADD_TER R29.2 "Net-(R29-Pad2)"
+.TER     SW1808-KeyC1.2
+.ADD_TER R39.2 "Net-(R39-Pad2)"
+.TER     SW1708-KeyB1.2
+.ADD_TER SW1608-KeyM1.2 "Net-(R49-Pad2)"
+.TER     R49.2
+.ADD_TER R57.2 "Net-(R57-Pad2)"
+.TER     SW1508-Key.1.2
+.ADD_TER SW1408-RShift1.2 "Net-(R65-Pad2)"
+.TER     R65.2
+.ADD_TER D72.1 "Net-(D72-Pad1)"
+.TER     R76.2
+.ADD_TER SW1307-F3-key1.2 "Net-(R10-Pad2)"
+.TER     R10.2
+.ADD_TER SW1907-KeyS1.2 "Net-(R21-Pad2)"
+.TER     R21.2
+.ADD_TER R30.2 "Net-(R30-Pad2)"
+.TER     SW1807-F-key1.2
+.ADD_TER R8.2 "Net-(R8-Pad2)"
+.TER     SW1305-F7-key1.2
+.ADD_TER SW1905-4-key1.2 "Net-(R19-Pad2)"
+.TER     R19.2
+.ADD_TER R28.2 "Net-(R28-Pad2)"
+.TER     SW1805-6-key1.2
+.ADD_TER R38.2 "Net-(R38-Pad2)"
+.TER     SW1705-8-key1.2
+.ADD_TER SW1605-0-key1.2 "Net-(R48-Pad2)"
+.TER     R48.2
+.ADD_TER R56.2 "Net-(R56-Pad2)"
+.TER     SW1505-Key-1.2
+.ADD_TER SW1707-KeyH1.2 "Net-(R40-Pad2)"
+.TER     R40.2
+.ADD_TER R64.2 "Net-(R64-Pad2)"
+.TER     SW1405-ClrHome1.2
+.ADD_TER R72.2 "Net-(R72-Pad2)"
+.TER     SW2005-2-key1.2
+.ADD_TER SW1905-4-key1.1 "/P05"
+.TER     SW2005-2-key1.1
+         SW1505-Key-1.1
+         SW1605-0-key1.1
+         SW1705-8-key1.1
+         SW1805-6-key1.1
+         SW1305-F7-key1.1
+         SW1405-ClrHome1.1
+         D3.1
+.ADD_TER SW1308-F1-Key1.2 "Net-(R9-Pad2)"
+.TER     R9.2
+.ADD_TER SW1406-UpArrow1.2 "Net-(R67-Pad2)"
+.TER     R67.2
+.ADD_TER SW2006-KeyQ1.2 "Net-(R74-Pad2)"
+.TER     R74.2
+.ADD_TER D4.1 "/P06"
+.TER     SW1706-KeyU1.1
+         SW1606-KeyO1.1
+         SW1506-Key@1.1
+         SW2006-KeyQ1.1
+         SW1406-UpArrow1.1
+         SW1306-F5-key1.1
+         SW1906-KeyE1.1
+         SW1806-KeyT1.1
+.ADD_TER SW1309-CrsrUD1.2 "Net-(R12-Pad2)"
+.TER     R12.2
+.ADD_TER SW1909-LShift1.2 "Net-(R23-Pad2)"
+.TER     R23.2
+.ADD_TER R32.2 "Net-(R32-Pad2)"
+.TER     SW1809-KeyX1.2
+.ADD_TER SW1709-KeyV1.2 "Net-(R42-Pad2)"
+.TER     R42.2
+.ADD_TER R52.2 "Net-(R52-Pad2)"
+.TER     SW1609-KeyN1.2
+.ADD_TER R60.2 "Net-(R60-Pad2)"
+.TER     SW1509-Key,1.2
+.ADD_TER R68.2 "Net-(R68-Pad2)"
+.TER     SW1409-Key/1.2
+.ADD_TER R75.2 "Net-(R75-Pad2)"
+.TER     SW2009-RunStop1.2
+.ADD_TER SW1607-KeyK1.2 "Net-(R50-Pad2)"
+.TER     R50.2
+.ADD_TER R58.2 "Net-(R58-Pad2)"
+.TER     SW1507-Key:1.2
+.ADD_TER R66.2 "Net-(R66-Pad2)"
+.TER     SW1407-Key=1.2
+.ADD_TER R73.2 "Net-(R73-Pad2)"
+.TER     SW2007-C=1.2
+.ADD_TER SW1507-Key:1.1 "/P07"
+.TER     SW1407-Key=1.1
+         SW2007-C=1.1
+         SW1607-KeyK1.1
+         SW1907-KeyS1.1
+         D5.1
+         SW1307-F3-key1.1
+         SW1807-F-key1.1
+         SW1707-KeyH1.1
+.ADD_TER SW1306-F5-key1.2 "Net-(R11-Pad2)"
+.TER     R11.2
+.ADD_TER R22.2 "Net-(R22-Pad2)"
+.TER     SW1906-KeyE1.2
+.ADD_TER R31.2 "Net-(R31-Pad2)"
+.TER     SW1806-KeyT1.2
+.ADD_TER SW1706-KeyU1.2 "Net-(R41-Pad2)"
+.TER     R41.2
+.ADD_TER SW1606-KeyO1.2 "Net-(R51-Pad2)"
+.TER     R51.2
+.ADD_TER SW1506-Key@1.2 "Net-(R59-Pad2)"
+.TER     R59.2
+.ADD_TER SW1412-KeyPound1.2 "Net-(R61-Pad2)"
+.TER     R61.2
+.ADD_TER SW2012-1-key1.2 "Net-(R69-Pad2)"
+.TER     R69.2
+.ADD_TER R5.2 "Net-(R5-Pad2)"
+.TER     SW1312-InstDel1.2
+.ADD_TER SW1912-3-key1.2 "Net-(R16-Pad2)"
+.TER     R16.2
+.ADD_TER R25.2 "Net-(R25-Pad2)"
+.TER     SW1812-5-key1.2
+.ADD_TER R35.2 "Net-(R35-Pad2)"
+.TER     SW1712-7-key1.2
+.ADD_TER SW1612-9-key1.2 "Net-(R45-Pad2)"
+.TER     R45.2
+.ADD_TER SW1512-Key+1.2 "Net-(R53-Pad2)"
+.TER     R53.2
+.ADD_TER R7.2 "Net-(R7-Pad2)"
+.TER     SW1310-CrsrLR1.2
+.ADD_TER SW1910-KeyA1.2 "Net-(R18-Pad2)"
+.TER     R18.2
+.ADD_TER SW1810-KeyD1.2 "Net-(R27-Pad2)"
+.TER     R27.2
+.ADD_TER R37.2 "Net-(R37-Pad2)"
+.TER     SW1710-KeyG1.2
+.ADD_TER SW1610-KeyJ1.2 "Net-(R47-Pad2)"
+.TER     R47.2
+.ADD_TER SW1510-KeyL1.2 "Net-(R55-Pad2)"
+.TER     R55.2
+.ADD_TER SW1410-Key;1.2 "Net-(R63-Pad2)"
+.TER     R63.2
+.ADD_TER SW2010-CTRL1.2 "Net-(R71-Pad2)"
+.TER     R71.2
+.ADD_TER SW1311-Return1.2 "Net-(R6-Pad2)"
+.TER     R6.2
+.ADD_TER R17.2 "Net-(R17-Pad2)"
+.TER     SW1911-KeyW1.2
+.ADD_TER R26.2 "Net-(R26-Pad2)"
+.TER     SW1811-KeyR1.2
+.ADD_TER SW1711-KeyY1.2 "Net-(R36-Pad2)"
+.TER     R36.2
+.ADD_TER SW1611-KeyI1.2 "Net-(R46-Pad2)"
+.TER     R46.2
+.ADD_TER SW1511-KeyP1.2 "Net-(R54-Pad2)"
+.TER     R54.2
+.ADD_TER SW1411-Key*1.2 "Net-(R62-Pad2)"
+.TER     R62.2
+.ADD_TER SW2011-LeftArrow1.2 "Net-(R70-Pad2)"
+.TER     R70.2
+.ADD_TER SW0103-Restore1.2 "Net-(R15-Pad2)"
+.TER     R15.2
+
+.END
