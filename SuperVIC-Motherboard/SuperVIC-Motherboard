@@ -1,0 +1,1266 @@
+.HEA
+.TIM 5/2/2021 3:10:30 PM
+.APP "Eeschema (5.1.9)-1"
+
+.ADD_COM U3 "W65C816CPU-40DIP"
+.ADD_COM U4 "656X-VIC-I"
+.ADD_COM RN1 "3k3"
+.ADD_COM U1 "W65C22VIA-40DIP"
+.ADD_COM U2 "W65C22VIA-40DIP"
+.ADD_COM C2 "0.1"
+.ADD_COM C7 "0.1"
+.ADD_COM C11 "0.1"
+.ADD_COM C13 "0.1"
+.ADD_COM C18 "0.1"
+.ADD_COM C24 "0.1"
+.ADD_COM C32 "0.1"
+.ADD_COM C36 "0.1"
+.ADD_COM C40 "0.1"
+.ADD_COM C43 "0.1"
+.ADD_COM C44 "0.1"
+.ADD_COM C41 "0.1"
+.ADD_COM C37 "0.1"
+.ADD_COM C33 "0.1"
+.ADD_COM C25 "0.1"
+.ADD_COM C19 "0.1"
+.ADD_COM C14 "0.1"
+.ADD_COM C12 "0.1"
+.ADD_COM C8 "0.1"
+.ADD_COM C3 "0.1"
+.ADD_COM C16 "4700uF"
+.ADD_COM S4 "VIDEO"
+.ADD_COM RV1 "10K"
+.ADD_COM L3 "MLZ2012N220LTD25"
+.ADD_COM JP1 "VIDEO-L"
+.ADD_COM C57 "0.1"
+.ADD_COM U5 "THS7316D"
+.ADD_COM R18 "470R"
+.ADD_COM R34 "75.0R"
+.ADD_COM R35 "75.0R"
+.ADD_COM R24 "22R"
+.ADD_COM R23 "150R"
+.ADD_COM C58 "0.1"
+.ADD_COM C60 "22u"
+.ADD_COM R29 "1K"
+.ADD_COM S3 "SERIAL"
+.ADD_COM J1 "KEYBRD"
+.ADD_COM R31 "1K"
+.ADD_COM MEDGE1 "C64_USER_PORT"
+.ADD_COM X1 "C64_CASSETTE_PORT"
+.ADD_COM R30 "1K"
+.ADD_COM U11 "STM32H753BITx"
+.ADD_COM R12 "510R"
+.ADD_COM C51 "0.1"
+.ADD_COM R13 "510R"
+.ADD_COM C52 "0.1"
+.ADD_COM C53 "0.1"
+.ADD_COM R14 "10K"
+.ADD_COM J3 "SWD"
+.ADD_COM R33 "510R"
+.ADD_COM R28 "10K"
+.ADD_COM J2 "USB_B_Micro"
+.ADD_COM J5 "Hirose_DM3D-SF"
+.ADD_COM R25 "10K"
+.ADD_COM R26 "10K"
+.ADD_COM C59 "0.1"
+.ADD_COM U20 "W25M02GWZEIG"
+.ADD_COM U21 "W25M02GWZEIG"
+.ADD_COM C46 "0.1"
+.ADD_COM C47 "0.1"
+.ADD_COM C45 "0.1"
+.ADD_COM X2 "VIC20_EXPANSION_PORT"
+.ADD_COM R8 "220R"
+.ADD_COM R9 "220R"
+.ADD_COM U10 "74LS06"
+.ADD_COM R32 "10K"
+.ADD_COM R20 "1K"
+.ADD_COM R21 "1K"
+.ADD_COM R19 "1K"
+.ADD_COM R15 "1K"
+.ADD_COM R17 "10K"
+.ADD_COM Q2 "2SC1815"
+.ADD_COM Q3 "2SC1815"
+.ADD_COM Q4 "KSD880"
+.ADD_COM R27 "1K5"
+.ADD_COM D3 "MMSZ5236B-7-F"
+.ADD_COM C55 "0.1"
+.ADD_COM S1 "4300.0103"
+.ADD_COM C62 "1n"
+.ADD_COM C61 "1n"
+.ADD_COM U17 "LSF0108PWJ"
+.ADD_COM U16 "LSF0108PWJ"
+.ADD_COM U15 "LSF0108PWJ"
+.ADD_COM U14 "LSF0108PWJ"
+.ADD_COM U13 "LSF0108PWJ"
+.ADD_COM U12 "LSF0108PWJ"
+.ADD_COM U18 "LSF0108PWJ"
+.ADD_COM U19 "LSF0108PWJ"
+.ADD_COM Y1 "CMJ206T32768EZFT"
+.ADD_COM C48 "6p"
+.ADD_COM C49 "6p"
+.ADD_COM J6 "Conn_SPI_TFT_Touch"
+.ADD_COM D1 "+A-A"
+.ADD_COM SW1 "SW_DPST"
+.ADD_COM F1 "0235003.MXP - 00300210H"
+.ADD_COM C22 "47nF@50V"
+.ADD_COM C27 "0.1uF"
+.ADD_COM U7 "AP3513EMPTR-G1"
+.ADD_COM R2 "26k1"
+.ADD_COM R4 "10k"
+.ADD_COM L2 "3.3uH"
+.ADD_COM C4 "10n"
+.ADD_COM C26 "10u"
+.ADD_COM C6 "10u"
+.ADD_COM R3 "100k"
+.ADD_COM C42 "22u"
+.ADD_COM C38 "22u"
+.ADD_COM R6 "52k3"
+.ADD_COM C30 "3.3n"
+.ADD_COM C28 "0.1u"
+.ADD_COM C29 "3.3n"
+.ADD_COM U9 "AP62301Z6-7"
+.ADD_COM R7 "10k"
+.ADD_COM R1 "22k"
+.ADD_COM C34 "10u"
+.ADD_COM C20 "0.1u"
+.ADD_COM R5 "13k"
+.ADD_COM L1 "4.7uH"
+.ADD_COM C9 "22u"
+.ADD_COM C5 "22u"
+.ADD_COM U6 "MIC5504-1.8YM5"
+.ADD_COM C1 "1u"
+.ADD_COM C15 "1u"
+.ADD_COM C21 "0.1u"
+.ADD_COM C35 "10n"
+.ADD_COM C39 "10n"
+.ADD_COM C31 "0.1u"
+.ADD_COM X3 "ACH-14.31818MHZ-EK"
+.ADD_COM S2 "Controller_Port"
+.ADD_COM JP2 "AudioDAC"
+.ADD_COM J4 "KEYBRD2"
+.ADD_COM C10 "1u"
+.ADD_COM C23 "0.1u"
+.ADD_COM C17 "1u"
+.ADD_COM U8 "LD1086DT50TR"
+.ADD_COM D4 "ESDA6V1U1"
+.ADD_COM D5 "ESDA6V1U1"
+.ADD_COM D6 "ESDA6V1U1"
+.ADD_COM D7 "ESDA6V1U1"
+.ADD_COM C50 "0.1u"
+.ADD_COM C63 "0.1u"
+.ADD_COM U22 "MCP1801T-6002I/OT"
+.ADD_COM C54 "22u"
+.ADD_COM C56 "1u"
+.ADD_COM C64 "1u"
+.ADD_COM C65 "0.1u"
+.ADD_COM U23 "NE5532DRE4"
+.ADD_COM R16 "10k"
+.ADD_COM R11 "10k"
+.ADD_COM R22 "1k"
+.ADD_COM R10 "1k"
+.ADD_COM C66 "0.1"
+.ADD_COM RV2 "PTV09A-2020F-A503"
+.ADD_COM RV3 "PTV09A-2020F-A503"
+.ADD_COM C67 "10u"
+.ADD_COM C68 "10u"
+.ADD_COM JP3 "AudioDAC"
+.ADD_COM C69 "10u"
+.ADD_COM R36 "10k"
+.ADD_COM C70 "10u"
+.ADD_COM R37 "10k"
+.ADD_COM SW2 "SW_Push_DPDT"
+.ADD_COM J7 "AudioHeader"
+.ADD_COM U24 "ESP8266NodeMCU"
+.ADD_COM R38 "510R"
+.ADD_COM R39 "1k"
+.ADD_COM Q1 "BC846ASQ-7-F"
+.ADD_COM 9VAC1 "9VAC"
+.ADD_COM 9VAC2 "9VAC"
+.ADD_COM L4 "L_Core_Ferrite_Coupled_1324"
+
+
+.ADD_TER J4.1 "GND"
+.TER     C10.2
+         J7.1
+         C5.2
+         C9.2
+         R5.1
+         C20.1
+         U24.10
+         U24.14
+         U24.17
+         C34.2
+         X3.4
+         U5.5
+         RV1.3
+         C60.2
+         R24.2
+         U8.2
+         U9.3
+         C16.2
+         C29.2
+         C17.2
+         C23.2
+         R7.2
+         S4.2
+         U23.4
+         U16.1
+         C65.2
+         C56.2
+         U22.2
+         C54.2
+         U14.1
+         C64.2
+         C66.2
+         R10.1
+         RV2.1
+         RV2.MP
+         U13.1
+         Q2.1
+         D3.2
+         U12.1
+         RV3.1
+         U19.1
+         U19.11
+         U19.12
+         U18.11
+         U18.1
+         U18.12
+         C62.2
+         C61.2
+         U17.1
+         U15.1
+         U24.24
+         R1.2
+         Q1.1
+         Q1.4
+         S2.8
+         RV3.MP
+         D4.7
+         D5.6
+         D5.7
+         D6.6
+         D6.7
+         D7.6
+         D7.7
+         D4.6
+         C50.2
+         C63.2
+         U21.4
+         U7.4
+         R17.1
+         R4.1
+         X2.Z
+         X2.22
+         C38.2
+         X2.A
+         C42.2
+         U10.7
+         U10.13
+         C48.2
+         C49.1
+         U5.2
+         U20.4
+         C46.1
+         Y1.3
+         C47.1
+         U11.40
+         C53.1
+         J3.3
+         C27.2
+         R14.1
+         U11.93
+         U11.82
+         U11.72
+         U11.60
+         U11.51
+         U11.25
+         U11.184
+         U11.170
+         C51.2
+         C52.2
+         J5.6
+         J5.11
+         D1.3
+         J2.6
+         J2.5
+         C26.2
+         C6.2
+         C59.1
+         U11.202
+         U11.114
+         U11.125
+         U11.136
+         U11.14
+         U11.149
+         C3.2
+         C31.2
+         C8.2
+         C14.2
+         C19.2
+         C25.2
+         C33.2
+         C39.2
+         C35.2
+         C21.2
+         C32.2
+         C36.2
+         C40.2
+         C43.2
+         C24.2
+         C15.2
+         C1.2
+         C2.2
+         C7.2
+         C11.2
+         U6.2
+         C13.2
+         C18.2
+         C12.2
+         C41.2
+         C37.2
+         X2.1
+         C45.2
+         U2.1
+         U1.1
+         U4.20
+         U3.21
+         C44.2
+         MEDGE1.12
+         J1.1
+         J6.1
+         MEDGE1.A
+         MEDGE1.1
+         X1.A
+         X1.1
+         MEDGE1.N
+         S3.2
+.ADD_TER S1.2 "Net-(S1-Pad2)"
+.TER     SW1.3
+.ADD_TER SW1.4 "Net-(F1-Pad1)"
+.TER     F1.1
+.ADD_TER S1.1 "Net-(S1-Pad1)"
+.TER     SW1.1
+.ADD_TER R3.2 "+9VA"
+.TER     U7.2
+         U9.1
+         C16.1
+         C34.1
+         C55.1
+         C27.1
+         C26.1
+         D1.1
+         C10.1
+         9VAC1.2
+         U8.1
+         C6.1
+         D1.4
+         9VAC2.2
+         R27.1
+         Q4.2
+         C22.1
+         Q3.2
+         F1.2
+         MEDGE1.11
+.ADD_TER D1.2 "-9VA"
+.TER     MEDGE1.10
+         9VAC2.1
+         9VAC1.1
+         SW1.2
+         C22.2
+.ADD_TER U11.194 "/SPI1_MOSI"
+.TER     J6.7
+.ADD_TER J6.4 "/TFT_RESET"
+.TER     U11.61
+.ADD_TER U11.55 "/TFT_DC"
+.TER     J6.3
+.ADD_TER X2.T "/~IO2"
+.TER     U11.16
+.ADD_TER X2.U "/~IO3"
+.TER     U11.17
+.ADD_TER J6.5 "/SPI1_SCK"
+.TER     U11.192
+.ADD_TER J6.6 "/SPI1_MISO"
+.TER     U11.178
+.ADD_TER C4.1 "Net-(C4-Pad1)"
+.TER     U7.1
+.ADD_TER U7.3 "Net-(C4-Pad2)"
+.TER     L1.1
+         C4.2
+.ADD_TER R3.1 "Net-(R3-Pad1)"
+.TER     U7.7
+.ADD_TER C20.2 "Net-(C20-Pad2)"
+.TER     U7.8
+.ADD_TER C45.1 "+3V3"
+.TER     R2.1
+         J4.2
+         U17.2
+         U16.2
+         U15.2
+         J6.13
+         C44.1
+         U12.2
+         C59.2
+         U14.2
+         U11.83
+         C3.1
+         C8.1
+         C41.1
+         C12.1
+         C19.1
+         C25.1
+         C33.1
+         C37.1
+         U11.124
+         J3.2
+         U11.59
+         U11.52
+         U11.39
+         U11.26
+         U11.204
+         U11.185
+         U11.171
+         U11.158
+         U11.150
+         U11.15
+         C14.1
+         U11.103
+         U11.6
+         U11.115
+         U11.73
+         U11.41
+         U11.42
+         R39.1
+         U11.137
+         U13.2
+         U11.94
+         C1.1
+         U18.19
+         R28.2
+         R25.1
+         R26.1
+         C5.1
+         U6.3
+         C9.1
+         L1.2
+         U19.19
+         U6.1
+         J5.4
+.ADD_TER R2.2 "Net-(R2-Pad2)"
+.TER     R4.2
+         U7.5
+.ADD_TER R19.2 "+5V"
+.TER     X2.21
+         C38.1
+         C42.1
+         R21.2
+         R20.2
+         R32.2
+         C24.1
+         C18.1
+         C13.1
+         C11.1
+         C7.1
+         C2.1
+         R31.1
+         U3.8
+         MEDGE1.2
+         X1.B
+         X1.2
+         R29.1
+         R30.1
+         U4.40
+         RN1.1
+         C60.1
+         R23.1
+         R24.1
+         U1.20
+         U2.20
+         R6.1
+         L2.2
+         C43.1
+         C40.1
+         C36.1
+         C32.1
+         U15.19
+         U16.19
+         U14.19
+         U17.19
+         U12.19
+         U13.19
+.ADD_TER U10.2 "/Phi2IN"
+.TER     R8.1
+         U4.38
+         U11.32
+.ADD_TER U4.39 "/Phi1IN"
+.TER     U10.1
+         U10.6
+         U11.28
+         R9.1
+.ADD_TER Y1.2 "/RCC_OSC32_IN"
+.TER     C48.1
+         U11.9
+.ADD_TER U11.10 "/RCC_OSC32_OUT"
+.TER     C49.2
+         Y1.1
+.ADD_TER U11.31 "/NF_CLK"
+.TER     U18.14
+         U19.14
+.ADD_TER U11.193 "/SD_D3"
+.TER     J5.2
+.ADD_TER U11.146 "/USBB_DP"
+.TER     J2.3
+.ADD_TER U11.145 "/USBB_DM"
+.TER     J2.2
+.ADD_TER J3.5 "/SWCLK"
+.TER     U11.159
+.ADD_TER U11.147 "/SWDIO"
+.TER     J3.4
+.ADD_TER J5.3 "/SD_CMD"
+.TER     U11.43
+.ADD_TER J5.7 "/SD_D0"
+.TER     U11.106
+.ADD_TER J5.8 "/SD_D1"
+.TER     U11.107
+.ADD_TER J5.5 "/SD_CLK"
+.TER     U11.36
+.ADD_TER U11.180 "/SD_D2"
+.TER     J5.1
+.ADD_TER U11.46 "/NF2_IO0"
+.TER     U19.18
+.ADD_TER U11.47 "/NF2_IO1"
+.TER     U19.17
+.ADD_TER U11.1 "/NF1_IO2"
+.TER     U18.16
+.ADD_TER U19.16 "/NF2_IO2"
+.TER     U11.81
+.ADD_TER U11.84 "/NF2_IO3"
+.TER     U19.15
+.ADD_TER U18.15 "/NF1_IO3"
+.TER     U11.27
+.ADD_TER U18.18 "/NF1_IO0"
+.TER     U11.29
+.ADD_TER U11.30 "/NF1_IO1"
+.TER     U18.17
+.ADD_TER U11.198 "/TOUCH_DIN"
+.TER     J6.10
+.ADD_TER U11.196 "/TOUCH_CLK"
+.TER     J6.11
+.ADD_TER J6.12 "/TOUCH_IRQ"
+.TER     U11.62
+.ADD_TER U11.90 "/TOUCH_CS"
+.TER     J6.8
+.ADD_TER U11.199 "/TOUCH_DO"
+.TER     J6.9
+.ADD_TER J6.2 "/TFT_CS"
+.TER     U11.56
+.ADD_TER C21.1 "+1V8"
+.TER     U20.8
+         C35.1
+         U6.5
+         U21.8
+         U19.2
+         C15.1
+         U18.2
+         C39.1
+         C31.1
+.ADD_TER JP3.1 "/VCAUD"
+.TER     SW2.6
+         SW2.3
+         U4.19
+         JP2.1
+.ADD_TER U11.63 "/~BLK1"
+.TER     X2.10
+.ADD_TER U11.2 "/~BLK5"
+.TER     X2.13
+.ADD_TER X2.11 "/~BLK2"
+.TER     U11.91
+.ADD_TER U11.161 "/~BLK3"
+.TER     X2.12
+.ADD_TER U24.6 "/SPI5_MOSI"
+.TER     U11.70
+.ADD_TER U11.96 "/SPI5_SCK"
+.TER     U24.9
+.ADD_TER U10.5 "Net-(U10-Pad5)"
+.TER     X3.5
+.ADD_TER J1.4 "+5VP"
+.TER     U8.3
+         R8.2
+         R9.2
+         C50.1
+         U24.15
+         C63.1
+         U10.14
+         C23.1
+         C17.1
+         S2.7
+         X3.8
+.ADD_TER C30.1 "Net-(C29-Pad1)"
+.TER     U7.6
+         C29.1
+.ADD_TER C28.1 "Net-(C28-Pad1)"
+.TER     U9.2
+         L2.1
+.ADD_TER C28.2 "Net-(C28-Pad2)"
+.TER     U9.4
+.ADD_TER R7.1 "Net-(R6-Pad2)"
+.TER     U9.6
+         R6.2
+.ADD_TER C30.2 "Net-(C30-Pad2)"
+.TER     R5.2
+.ADD_TER U9.5 "/EN5V"
+.TER     U14.20
+         U13.20
+         U17.20
+         U16.20
+         U12.20
+         R1.1
+         U11.160
+         U15.20
+.ADD_TER U11.85 "/IEC_SRQ"
+.TER     S3.1
+         D4.3
+         U1.18
+.ADD_TER U17.16 "/CD2"
+.TER     U3.31
+         X2.4
+.ADD_TER U3.30 "/CD3"
+.TER     U17.15
+         X2.5
+.ADD_TER U17.14 "/CD4"
+.TER     X2.6
+         U3.29
+.ADD_TER U17.13 "/CD5"
+.TER     X2.7
+         U3.28
+.ADD_TER U17.12 "/CD6"
+.TER     U3.27
+         X2.8
+.ADD_TER X2.9 "/CD7"
+.TER     U17.11
+         U3.26
+.ADD_TER D4.2 "/IEC_ATN"
+.TER     D4.8
+         R21.1
+         MEDGE1.9
+         U11.87
+         S3.3
+         U10.8
+.ADD_TER U11.139 "/VIA_Phi2"
+.TER     U2.25
+         U1.25
+.ADD_TER X1.D "/VIA1_CA1"
+.TER     X1.4
+         U1.40
+         D6.1
+         U11.79
+.ADD_TER U10.3 "/IEC_~SDO"
+.TER     U1.19
+         U11.89
+.ADD_TER U10.11 "/VIA1_CA2"
+.TER     U1.39
+         U11.80
+.ADD_TER U2.23 "/~VIA"
+.TER     U1.23
+         U11.181
+.ADD_TER U1.3 "/VIA1_PA1"
+.TER     U11.155
+         J1.19
+.ADD_TER U11.156 "/VIA1_PA2"
+.TER     U1.4
+         J1.18
+.ADD_TER U1.5 "/VIA1_PA3"
+.TER     U11.157
+         J1.17
+.ADD_TER U11.205 "/VIA1_PA4"
+.TER     U1.6
+         J1.16
+.ADD_TER U1.7 "/VIA1_PA5"
+.TER     U11.206
+         J1.15
+.ADD_TER U11.207 "/VIA1_PA6"
+.TER     U1.8
+         J1.14
+.ADD_TER U1.9 "/VIA1_PA7"
+.TER     U11.208
+         J1.13
+.ADD_TER X2.P "/CA11"
+.TER     U16.15
+         U3.20
+.ADD_TER U1.24 "/CA5"
+.TER     U15.13
+         U3.14
+         X2.H
+.ADD_TER X2.J "/CA6"
+.TER     U3.15
+         U15.12
+.ADD_TER U15.11 "/CA7"
+.TER     U3.16
+         X2.K
+.ADD_TER X2.L "/CA8"
+.TER     U16.18
+         U3.17
+.ADD_TER U3.18 "/CA9"
+.TER     X2.M
+         U16.17
+.ADD_TER U16.16 "/CA10"
+.TER     X2.N
+         U3.19
+.ADD_TER U1.10 "/VIA1_PB0"
+.TER     U11.7
+         J1.12
+.ADD_TER U16.14 "/CA12"
+.TER     U3.22
+         X2.R
+.ADD_TER U3.23 "/CA13"
+.TER     X2.S
+         U16.13
+.ADD_TER U3.24 "/CA14"
+.TER     U16.12
+.ADD_TER U16.11 "/CA15"
+.TER     U3.25
+.ADD_TER U17.18 "/CD0"
+.TER     X2.2
+         U3.33
+.ADD_TER X2.3 "/CD1"
+.TER     U3.32
+         U17.17
+.ADD_TER U4.26 "/VA5"
+.TER     U13.13
+.ADD_TER U2.16 "/VIA2_PB6"
+.TER     D5.5
+         U11.48
+         MEDGE1.K
+.ADD_TER U11.49 "/SPI5_NSS"
+.TER     U24.7
+.ADD_TER U4.21 "/VA0"
+.TER     U13.18
+.ADD_TER U4.22 "/VA1"
+.TER     U13.17
+.ADD_TER U13.16 "/VA2"
+.TER     U4.23
+.ADD_TER U13.15 "/VA3"
+.TER     U4.24
+.ADD_TER U4.25 "/VA4"
+.TER     U13.14
+.ADD_TER U2.15 "/VIA2_PB5"
+.TER     MEDGE1.J
+         U11.153
+         D5.4
+.ADD_TER U13.12 "/VA6"
+.TER     U4.27
+.ADD_TER U4.28 "/VA7"
+.TER     U13.11
+.ADD_TER U12.18 "/VA8"
+.TER     U4.29
+.ADD_TER U4.30 "/VA9"
+.TER     U12.17
+.ADD_TER U12.16 "/VA10"
+.TER     U4.31
+.ADD_TER U4.32 "/VA11"
+.TER     U12.15
+.ADD_TER S3.5 "/IEC_DAT"
+.TER     R20.1
+         D4.5
+         U11.86
+         U10.4
+         U2.3
+.ADD_TER U1.11 "/VIA1_PB1"
+.TER     J1.11
+         U11.11
+.ADD_TER U11.12 "/VIA1_PB2"
+.TER     U1.12
+         J1.10
+.ADD_TER J1.9 "/VIA1_PB3"
+.TER     U11.13
+         X1.5
+         D7.5
+         X1.E
+         U1.13
+.ADD_TER J1.8 "/VIA1_PB4"
+.TER     U11.19
+         U1.14
+.ADD_TER J1.7 "/VIA1_PB5"
+.TER     U1.15
+         U11.20
+.ADD_TER U11.21 "/VIA1_PB6"
+.TER     D7.8
+         J1.6
+         U1.16
+.ADD_TER S2.4 "/VIA1_PB7"
+.TER     U1.17
+         J1.5
+         U11.64
+.ADD_TER J1.3 "/~RESTORE"
+.TER     U11.3
+         R32.1
+         U2.40
+.ADD_TER U11.191 "/VIA2_CB2"
+.TER     D7.1
+         U2.19
+         MEDGE1.M
+.ADD_TER U11.183 "/VIA2_CB1"
+.TER     MEDGE1.B
+         U2.18
+         D7.2
+.ADD_TER U11.182 "/VIA2_CA2"
+.TER     R15.2
+         U2.39
+.ADD_TER S3.4 "/IEC_CLK"
+.TER     R19.1
+         U11.88
+         U2.2
+         D4.4
+         U10.10
+.ADD_TER U11.18 "/VIA2_PA2"
+.TER     U2.4
+         S2.1
+         D6.2
+         MEDGE1.4
+.ADD_TER U2.5 "/VIA2_PA3"
+.TER     S2.2
+         U11.22
+         D6.3
+         MEDGE1.5
+.ADD_TER U11.23 "/VIA2_PA4"
+.TER     U2.6
+         D6.4
+         MEDGE1.6
+         S2.3
+.ADD_TER U11.24 "/VIA2_PA5"
+.TER     MEDGE1.7
+         S2.6
+         U2.7
+         U4.37
+         D6.5
+.ADD_TER X1.6 "/VIA2_PA6"
+.TER     MEDGE1.8
+         X1.F
+         D6.8
+         U11.71
+         U2.8
+.ADD_TER U10.9 "/VIA2_PA7"
+.TER     U2.9
+         U11.74
+.ADD_TER U11.75 "/VIA2_PB0"
+.TER     D7.3
+         MEDGE1.C
+         U2.10
+.ADD_TER MEDGE1.D "/VIA2_PB1"
+.TER     U2.11
+         D7.4
+         U11.76
+.ADD_TER U2.12 "/VIA2_PB2"
+.TER     MEDGE1.E
+         D5.1
+         U11.102
+.ADD_TER U2.13 "/VIA2_PB3"
+.TER     U11.151
+         D5.2
+         MEDGE1.F
+.ADD_TER MEDGE1.H "/VIA2_PB4"
+.TER     U2.14
+         D5.3
+         U11.152
+.ADD_TER U3.9 "/CA0"
+.TER     U1.38
+         U2.38
+         X2.B
+         U15.18
+.ADD_TER U3.10 "/CA1"
+.TER     X2.C
+         U2.37
+         U1.37
+         U15.17
+.ADD_TER U3.11 "/CA2"
+.TER     U1.36
+         U2.36
+         X2.D
+         U15.16
+.ADD_TER U1.35 "/CA3"
+.TER     U2.35
+         U3.12
+         U15.15
+         X2.E
+.ADD_TER X2.F "/CA4"
+.TER     U3.13
+         U15.14
+         U2.24
+.ADD_TER Q4.1 "/CMTR"
+.TER     X1.C
+         X1.3
+.ADD_TER Q2.3 "Net-(Q2-Pad3)"
+.TER     R15.1
+         R17.2
+.ADD_TER Q4.3 "Net-(Q3-Pad1)"
+.TER     Q3.1
+.ADD_TER R27.2 "Net-(C55-Pad2)"
+.TER     D3.1
+         Q2.2
+         Q3.3
+         C55.2
+.ADD_TER U11.200 "/~ML"
+.TER     U3.5
+.ADD_TER U3.3 "/~ABORT"
+.TER     U11.33
+         RN1.6
+.ADD_TER U11.179 "/RDY"
+.TER     RN1.5
+         U3.2
+.ADD_TER RN1.4 "/VIA1_~IRQ"
+.TER     U11.5
+         X2.19
+         U1.21
+         U3.4
+.ADD_TER U2.21 "/VIA2_~IRQ"
+.TER     X2.W
+         U11.4
+         RN1.3
+         U3.6
+.ADD_TER U11.135 "/BE"
+.TER     RN1.2
+         U3.36
+.ADD_TER U3.35 "/E"
+.TER     U11.141
+.ADD_TER U3.39 "/VDA"
+.TER     U11.162
+.ADD_TER U11.163 "/VPA"
+.TER     U3.7
+.ADD_TER X2.18 "/CR~W"
+.TER     U11.177
+         U2.22
+         U1.22
+         U3.34
+.ADD_TER U3.38 "/MX"
+.TER     U11.8
+.ADD_TER U3.1 "/~VP"
+.TER     U11.201
+.ADD_TER U3.37 "/CPU_Phi2"
+.TER     U11.138
+.ADD_TER U3.40 "/~RESET"
+.TER     U11.104
+         U1.34
+         U2.34
+         X2.X
+         Q1.6
+         MEDGE1.3
+         R30.2
+         S3.6
+.ADD_TER U11.67 "/MVA2"
+.TER     U13.5
+.ADD_TER U11.142 "/MPPhi1"
+.TER     U12.10
+.ADD_TER X2.17 "/VR~W"
+.TER     U12.12
+         U4.4
+.ADD_TER U14.7 "/MBD4"
+.TER     U11.187
+.ADD_TER U20.3 "Net-(U18-Pad5)"
+.TER     U18.5
+.ADD_TER U20.6 "Net-(U18-Pad7)"
+.TER     U18.7
+.ADD_TER U20.1 "Net-(U18-Pad8)"
+.TER     U18.8
+.ADD_TER U21.6 "Net-(U19-Pad7)"
+.TER     U19.7
+.ADD_TER U21.1 "Net-(U19-Pad8)"
+.TER     U19.8
+.ADD_TER U4.17 "/POTX"
+.TER     U11.37
+         S2.9
+         C62.1
+.ADD_TER U4.35 "/PPhi1"
+.TER     U12.11
+.ADD_TER U4.18 "/POTY"
+.TER     S2.5
+         U11.38
+         C61.1
+.ADD_TER U4.12 "/BD4"
+.TER     U2.29
+         U14.14
+         U1.29
+.ADD_TER U12.14 "/VA12"
+.TER     U4.33
+.ADD_TER U12.13 "/VA13"
+.TER     U4.34
+.ADD_TER U14.18 "/BD0"
+.TER     U4.16
+         U2.33
+         U1.33
+.ADD_TER U4.15 "/BD1"
+.TER     U1.32
+         U2.32
+         U14.17
+.ADD_TER U4.14 "/BD2"
+.TER     U1.31
+         U14.16
+         U2.31
+.ADD_TER U2.30 "/BD3"
+.TER     U4.13
+         U14.15
+         U1.30
+.ADD_TER U2.28 "/BD5"
+.TER     U1.28
+         U4.11
+         U14.13
+.ADD_TER U2.27 "/BD6"
+.TER     U14.12
+         U1.27
+         U4.10
+.ADD_TER U1.26 "/BD7"
+.TER     U2.26
+         U14.11
+         U4.9
+.ADD_TER U11.98 "/VD8"
+.TER     U4.8
+.ADD_TER U4.7 "/VD9"
+.TER     U11.99
+.ADD_TER U4.6 "/VD10"
+.TER     U11.100
+.ADD_TER U11.101 "/VD11"
+.TER     U4.5
+.ADD_TER U11.132 "/MCD5"
+.TER     U17.8
+.ADD_TER U24.8 "/SPI5_MISO"
+.TER     U11.97
+.ADD_TER U22.5 "+6V"
+.TER     U23.8
+         R22.2
+         C65.1
+         C64.1
+.ADD_TER U22.3 "+9V"
+.TER     U22.1
+         C54.1
+         C56.1
+.ADD_TER U23.3 "Net-(C66-Pad1)"
+.TER     U23.5
+         R22.1
+         C66.1
+         R10.2
+.ADD_TER RV2.3 "Net-(C67-Pad2)"
+.TER     C67.2
+.ADD_TER U23.7 "Net-(C68-Pad1)"
+.TER     C68.1
+         R16.1
+.ADD_TER R11.1 "Net-(C67-Pad1)"
+.TER     U23.1
+         C67.1
+.ADD_TER U23.6 "/OA_Audio2"
+.TER     R16.2
+         R37.2
+.ADD_TER R11.2 "/OA_Audio1"
+.TER     U23.2
+         R36.2
+.ADD_TER RV3.3 "Net-(C68-Pad2)"
+.TER     C68.2
+.ADD_TER U11.34 "/~RST"
+.TER     U18.20
+         R39.2
+         U19.20
+         Q1.3
+         U24.13
+.ADD_TER U24.25 "Net-(U24-Pad11)"
+.TER     U24.11
+         U24.16
+.ADD_TER R38.1 "Net-(Q1-Pad5)"
+.TER     Q1.5
+.ADD_TER J4.3 "/RESET_BTN"
+.TER     R38.2
+         C53.2
+.ADD_TER R33.1 "Net-(Q1-Pad2)"
+.TER     Q1.2
+.ADD_TER C70.1 "/XAudio2"
+.TER     SW2.5
+         JP3.2
+.ADD_TER SW2.2 "/XAudio1"
+.TER     JP2.2
+         C69.1
+.ADD_TER C69.2 "Net-(C69-Pad2)"
+.TER     R36.1
+.ADD_TER R37.1 "Net-(C70-Pad2)"
+.TER     C70.2
+.ADD_TER J7.2 "/AUDOUT1"
+.TER     RV2.2
+         S4.3
+.ADD_TER J7.3 "/AUDOUT2"
+.TER     RV3.2
+         S4.1
+.ADD_TER JP3.3 "/DAC1_OUT2"
+.TER     SW2.4
+         U11.54
+.ADD_TER JP2.3 "/DAC1_OUT1"
+.TER     SW2.1
+         U11.53
+.ADD_TER U14.8 "/MBD5"
+.TER     U11.188
+.ADD_TER U11.189 "/MBD6"
+.TER     U14.9
+.ADD_TER U11.190 "/MBD7"
+.TER     U14.10
+.ADD_TER U13.3 "/MVA0"
+.TER     U11.65
+.ADD_TER U11.66 "/MVA1"
+.TER     U13.4
+.ADD_TER U11.68 "/MVA3"
+.TER     U13.6
+.ADD_TER U13.7 "/MVA4"
+.TER     U11.69
+.ADD_TER U13.8 "/MVA5"
+.TER     U11.95
+.ADD_TER U11.118 "/MVA6"
+.TER     U13.9
+.ADD_TER U13.10 "/MVA7"
+.TER     U11.119
+.ADD_TER U11.120 "/MVA8"
+.TER     U12.3
+.ADD_TER U17.3 "/MCD0"
+.TER     U11.77
+.ADD_TER U11.78 "/MCD1"
+.TER     U17.4
+.ADD_TER U11.129 "/MCD2"
+.TER     U17.5
+.ADD_TER U11.130 "/MCD3"
+.TER     U17.6
+.ADD_TER U17.7 "/MCD4"
+.TER     U11.131
+.ADD_TER U11.121 "/MVA9"
+.TER     U12.4
+.ADD_TER U17.9 "/MCD6"
+.TER     U11.133
+.ADD_TER U17.10 "/MCD7"
+.TER     U11.134
+.ADD_TER U11.126 "/MBD0"
+.TER     U14.3
+.ADD_TER U11.127 "/MBD1"
+.TER     U14.4
+.ADD_TER U11.128 "/MBD2"
+.TER     U14.5
+.ADD_TER U11.186 "/MBD3"
+.TER     U14.6
+.ADD_TER U12.5 "/MVA10"
+.TER     U11.122
+.ADD_TER U11.123 "/MVA11"
+.TER     U12.6
+.ADD_TER U11.174 "/MVA12"
+.TER     U12.7
+.ADD_TER U11.175 "/MVA13"
+.TER     U12.8
+.ADD_TER U11.176 "/MVR~W"
+.TER     U12.9
+.ADD_TER U11.140 "/S02"
+.TER     X2.V
+.ADD_TER J4.4 "/SPECIAL_BTN"
+.TER     R13.1
+.ADD_TER U15.9 "/MCA6"
+.TER     U11.172
+.ADD_TER U15.3 "/MCA0"
+.TER     U11.164
+.ADD_TER U11.165 "/MCA1"
+.TER     U15.4
+.ADD_TER U15.5 "/MCA2"
+.TER     U11.166
+.ADD_TER U15.6 "/MCA3"
+.TER     U11.167
+.ADD_TER U11.168 "/MCA4"
+.TER     U15.7
+.ADD_TER U11.169 "/MCA5"
+.TER     U15.8
+.ADD_TER U15.10 "/MCA7"
+.TER     U11.173
+.ADD_TER U11.108 "/MCA8"
+.TER     U16.3
+.ADD_TER U16.4 "/MCA9"
+.TER     U11.109
+.ADD_TER U11.110 "/MCA10"
+.TER     U16.5
+.ADD_TER U11.111 "/MCA11"
+.TER     U16.6
+.ADD_TER U16.7 "/MCA12"
+.TER     U11.112
+.ADD_TER U11.113 "/MCA13"
+.TER     U16.8
+.ADD_TER U16.9 "/MCA14"
+.TER     U11.116
+.ADD_TER U11.117 "/MCA15"
+.TER     U16.10
+.ADD_TER U2.17 "/VIA2_PB7"
+.TER     D5.8
+         MEDGE1.L
+         U11.143
+.ADD_TER J5.9 "/SD_DT2"
+.TER     U11.50
+         R26.2
+.ADD_TER J5.10 "/SD_DT1"
+.TER     R25.2
+         U11.35
+.ADD_TER U11.44 "/~RAM1"
+.TER     X2.14
+.ADD_TER X2.15 "/~RAM2"
+.TER     U11.45
+.ADD_TER R12.2 "/MENU"
+.TER     U11.57
+         C51.1
+.ADD_TER U11.58 "/SPECIAL"
+.TER     C52.1
+         R13.2
+.ADD_TER U11.105 "/~RST_O"
+.TER     R28.1
+         R33.2
+.ADD_TER U1.2 "/VIA1_PA0"
+.TER     U11.154
+         J1.20
+.ADD_TER U4.2 "/VCOLOR"
+.TER     RV1.1
+.ADD_TER U4.3 "/VLUMA"
+.TER     R18.1
+.ADD_TER R34.1 "Net-(R34-Pad1)"
+.TER     U5.8
+.ADD_TER R34.2 "Net-(R34-Pad2)"
+.TER     S4.4
+.ADD_TER R35.1 "Net-(R35-Pad1)"
+.TER     U5.6
+.ADD_TER R35.2 "Net-(R35-Pad2)"
+.TER     S4.5
+.ADD_TER C58.2 "Net-(C58-Pad2)"
+.TER     R23.2
+         R18.2
+.ADD_TER RV1.2 "Net-(JP1-Pad1)"
+.TER     L3.1
+         JP1.1
+.ADD_TER C57.2 "Net-(C57-Pad2)"
+.TER     JP1.2
+         L3.2
+.ADD_TER C57.1 "Net-(C57-Pad1)"
+.TER     U5.1
+.ADD_TER C58.1 "Net-(C58-Pad1)"
+.TER     U5.3
+.ADD_TER U11.144 "/~RAM3"
+.TER     X2.16
+.ADD_TER R14.2 "/BOOT0"
+.TER     J3.1
+         U11.197
+.ADD_TER U11.195 "/NF_~CS"
+.TER     U18.13
+         U19.13
+.ADD_TER U20.7 "Net-(U18-Pad6)"
+.TER     U18.6
+.ADD_TER U18.4 "Net-(U18-Pad4)"
+.TER     U20.2
+.ADD_TER U18.3 "Net-(U18-Pad3)"
+.TER     U20.5
+.ADD_TER U21.7 "Net-(U19-Pad6)"
+.TER     U19.6
+.ADD_TER U19.5 "Net-(U19-Pad5)"
+.TER     U21.3
+.ADD_TER C46.2 "Net-(C46-Pad2)"
+.TER     U11.92
+.ADD_TER U11.148 "Net-(C47-Pad2)"
+.TER     C47.2
+.ADD_TER U19.4 "Net-(U19-Pad4)"
+.TER     U21.2
+.ADD_TER U21.5 "Net-(U19-Pad3)"
+.TER     U19.3
+.ADD_TER J4.5 "/MENU_BTN"
+.TER     R12.1
+
+.END
